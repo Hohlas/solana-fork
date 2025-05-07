@@ -8,6 +8,7 @@ TAG=v2.2.12-jito
 ```bash
 SOL_BIN="$HOME/.local/share/solana/install/releases/$TAG/solana-release/bin"
 API_URL="https://api.github.com/repos/Hohlas/solana-fork/contents/bin/$TAG"
+echo "0.45 4 0 24" > ~/solana/mostly_confirmed_threshold
 # apt update && apt install p7zip-full -y
 ```
 
