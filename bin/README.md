@@ -33,6 +33,7 @@ tail -f ~/solana/solana.log | grep patch
 ```
 validator confirmed
 ![image](https://github.com/user-attachments/assets/53697a6d-de2a-48fe-aa23-36aded879381) 
+
 validator not in authorized list
 ![image](https://github.com/user-attachments/assets/122150a6-5617-4b2e-bb3d-77be19a953a2)
 
