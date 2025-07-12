@@ -2,7 +2,7 @@
 
 
 ```bash
-TAG=v2.2.16-jito
+TAG=v2.3.2-jito
 # TAG=v2.2.16-paladin
 ```
 
