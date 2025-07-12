@@ -36,9 +36,9 @@ ln -sfn $HOME/.local/share/solana/install/releases/$TAG/solana-release $HOME/.lo
 
 # add agave->solana links
 ln -sfn $SOL_BIN/solana $SOL_BIN/agave
-for file in solana-*; do # all files started "solana-"
+for file in agave-*; do # all files started "agave-"
     if [ -f "$file" ]; then # is exist
-        ln -sf "$file" "${file/solana-/agave-}" # create link
+        ln -sf "$file" "${file/agave-/solana-}" # create link
         echo "create link for $file"
     fi
 done
