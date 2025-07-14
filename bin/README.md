@@ -4,10 +4,10 @@
 ```bash
 # TAG=v2.2.19-paladin
 TAG=v2.3.2-jito
-echo "export TAG=$TAG" >> $HOME/.bashrc
 ```
 
 ```bash
+echo "export TAG=$TAG" >> $HOME/.bashrc
 SOL_BIN="$HOME/.local/share/solana/install/releases/$TAG/solana-release/bin"
 API_URL="https://api.github.com/repos/Hohlas/solana-fork/contents/bin/$TAG"
 ```
