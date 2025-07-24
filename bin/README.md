@@ -59,4 +59,10 @@ sha256sum -c checksum.txt
 ```bash
 tail -f ~/solana/solana.log | grep patch
 ```
+Patch OK: your validator confirmed
+<img width="1084" height="64" alt="image" src="https://github.com/user-attachments/assets/691a313d-aa55-4a92-898a-a34ed20ebb1f" />
+
+
+Warning: your validator not in authorized list
+<img width="1192" height="56" alt="image" src="https://github.com/user-attachments/assets/5b7ef4fc-cf74-4340-b5cc-d4bf63dd5010" />
 
