@@ -1,16 +1,16 @@
 # Solana Binaries for version v2.2.20-jito 
 
 ## System Information
-- **Ubuntu Version**: Ubuntu 24.04 LTS
-- **Kernel Version**: 6.8.0-31-generic
+- **Ubuntu Version**: Ubuntu 22.04 LTS
+- **Kernel Version**: 5.15.0-25-generic
 
 ## Binary Checksums
 To verify the integrity of the downloaded binaries, compare their SHA-256 checksums with the values below:
 
 ```bash
-cdc2f19ade51749a44183fc5b1caecfac56ec5b970fd5ad730fce9fc5722c063  solana
-5579a71d093018a65c2cc5872d899d900f366acee8e2d5cc565b96c5ebd76607  agave-validator
-2bbc1f558c6ee713584a430bf7bb3ec336b3ed902e1c7a83bb0cc7844770597a  solana-keygen
+cb475c4242cac847f73ffe5f2e7b42fc67a793efe31226d39da76d56ca1de044  solana
+1d986c3118c519c2bc1374c44984b7f6603ef97abdeb331e90c1e5efed181dec  agave-validator
+ce4cbab703ca320982e82b6b25cca9837c87061f794accf7f6456f7e091794ff  solana-keygen
 ```
 
 ### Verification Steps
