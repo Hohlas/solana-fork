@@ -55,6 +55,8 @@ sha256sum -c checksum.txt
 ```
 
 
+### Verify patch working 
+```bash
+tail -f ~/solana/solana.log | grep patch
+```
 
-
-rea
