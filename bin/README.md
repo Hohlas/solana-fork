@@ -4,7 +4,7 @@
 ```bash
 # TAG=v2.2.19-paladin
 TAG=v2.3.2-jito
-TAG=v2.2.20-jito
+TAG=v2.3.6-jito
 ```
 
 ```bash
