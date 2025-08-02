@@ -1,16 +1,16 @@
 # Solana Binaries for version v2.3.6-jito 
 
 ## System Information
-- **Ubuntu Version**: Ubuntu 22.04 LTS
-- **Kernel Version**: 5.15.0-25-generic
+- **Ubuntu Version**: Ubuntu 22.04.5 LTS
+- **Kernel Version**: 6.8.0-65-generic
 
 ## Binary Checksums
 To verify the integrity of the downloaded binaries, compare their SHA-256 checksums with the values below:
 
 ```bash
-bea196638883183ccb5ef6af1933e7464ebedc7a618c635f92db620eacb36221  solana
-33663483125b9c6495f29a5bcb5d54fa86705e5cab928c707a29975ad68992ff  agave-validator
-336205671e3ebf1daa730c5c2ddede4edbd28222db1e0cbf82c308e2e1ae5c33  solana-keygen
+62c9ec476751ba7058c50db1bc9068c0619213adc3639e69161cc7687d05effe  solana
+e73fffcd87eb52bbaa2361b7eef62ec28c7d089591dd0076aa44ae3104b0bb59  agave-validator
+55ef704b63791ff4a5a2a29bea11cc49d6020bf74a9de0055ef3dd6d8f4510f1  solana-keygen
 ```
 
 ### Verification Steps
