@@ -9,7 +9,7 @@ To verify the integrity of the downloaded binaries, compare their SHA-256 checks
 
 ```bash
 62c9ec476751ba7058c50db1bc9068c0619213adc3639e69161cc7687d05effe  solana
-e73fffcd87eb52bbaa2361b7eef62ec28c7d089591dd0076aa44ae3104b0bb59  agave-validator
+203e19858aae0ac05c268d3859b3fb4005cd22fcc7fc987e3f9126ccccf8574e  agave-validator
 55ef704b63791ff4a5a2a29bea11cc49d6020bf74a9de0055ef3dd6d8f4510f1  solana-keygen
 ```
 
