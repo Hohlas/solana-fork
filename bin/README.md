@@ -44,7 +44,7 @@ for file in agave-*; do # all files started "agave-"
         echo "create link for $file"
     fi
 done
-
+echo "0.45 4 0 24" | sudo tee /mostly_confirmed_threshold > /dev/null
 agave-validator --version
 ```
 
