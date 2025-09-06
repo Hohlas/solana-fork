@@ -5,6 +5,7 @@
 # TAG=v2.2.19-paladin
 TAG=v2.3.2-jito
 TAG=v2.3.6-jito
+TAG=v3.0.0-jito
 ```
 
 ```bash
