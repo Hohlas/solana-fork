@@ -2,7 +2,8 @@
 
 
 ```bash
-TAG=v3.0.0-jito
+TAG=v2.3.11-jito
+TAG=v3.0.4-jito
 ```
 
 ```bash
